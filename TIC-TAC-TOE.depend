@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1548015272 source:e:\project\tic-tac-toe\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1548023652 source:e:\projects\tic-tac-toe\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1548023652 source:g:\c++\tic-tac-toe\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
